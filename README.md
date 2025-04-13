@@ -4,6 +4,7 @@
   This report analyzes the "Average Daily Screen Time for Children" dataset from the Kaggle platform. The dataset evaluates the screen time of children aged 5-15 years. It includes age, gender, screen time type, day type, average screen time (hour), and sample size. The aim is to examine children's screen time across different dimensions, including age, gender, day type, and screen type, to derive meaningful insights. The data was analyzed using SQLite queries, and the results were evaluated in detail.
 
   Kaggle link: https://www.kaggle.com/datasets/ak0212/average-daily-screen-time-for-children
+  Code Shared on Kaggle: https://www.kaggle.com/code/onurdoker/average-daily-screen-time-for-children
   
   GitHub Repository: https://github.com/onurdoker/Average-Daily-Screen-Time-for-Children/tree/main
 
