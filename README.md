@@ -7,7 +7,7 @@
   
   Code Shared on Kaggle: https://www.kaggle.com/code/onurdoker/average-daily-screen-time-for-children
   
-  GitHub Repository: [https://github.com/onurdoker/AverageDailyScreenTimeforChildren](https://github.com/onurdoker/AverageDailyScreenTimeforChildren)
+  GitHub Repository: [https://github.com/Projects-of-Data-Analysis/AverageDailyScreenTimeforChildren](https://github.com/Projects-of-Data-Analysis/AverageDailyScreenTimeforChildren)
 
   Dataset Used: screen_time.csv (from Kaggle)
 
